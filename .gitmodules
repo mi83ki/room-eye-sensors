@@ -1,0 +1,3 @@
+[submodule "RoomEyeSensors/lib/ArduinoCommon"]
+	path = RoomEyeSensors/lib/ArduinoCommon
+	url = https://github.com/mi83ki/ArduinoCommon.git
